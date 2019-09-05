@@ -13,7 +13,7 @@
     .OUTPUTS
         Summary of incurred events
     .EXAMPLE
-        .\on-demand.ps1 -rubrik_host amer2-rbk01.rubrikdemo.com -vm_file test.csv -sla_name Bronze
+        .\on-demand.ps1 -rubrik_host amer2-rbk01.rubrikdemo.com -vm_file test.txt -sla_name Bronze
     .LINK
         None
     .NOTES
